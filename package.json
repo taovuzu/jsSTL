@@ -1,5 +1,5 @@
 {
-  "name": "@taovuzu/jsSTL",
+  "name": "@taovuzu/jsstl",
   "version": "1.0.0",
   "description": "A Package to implement STL-like algorithms and data structures in JavaScript with ease.",
   "main": "index.js",
