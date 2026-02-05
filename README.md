@@ -164,4 +164,5 @@ reverse(arr); // [5, 4, 3, 2, 1]
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[ISC](https://choosealicense.com/licenses/isc/)
+
+Distributed under the MIT License. See `LICENSE` for more information.
