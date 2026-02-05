@@ -1,0 +1,28 @@
+{
+  "name": "dsa-js-stl",
+  "version": "1.0.0",
+  "description": "A Package to implement STL-like algorithms and data structures in JavaScript with ease.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test_stl.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taovuzu/jsSTL"
+  },
+  "author": "Krishna Chahar",
+  "license": "ISC",
+  "keywords": [
+    "DSA",
+    "STL",
+    "JavaScript",
+    "Data Structures",
+    "Algorithms",
+    "Vector",
+    "Stack",
+    "Queue",
+    "PriorityQueue",
+    "Map",
+    "Set"
+  ]
+}
