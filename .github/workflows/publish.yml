@@ -1,6 +1,5 @@
 name: Publish Package to npm
 
-# This tells GitHub to run the script only when you create a "Release"
 on:
   release:
     types: [created]
@@ -16,8 +15,8 @@ jobs:
           node-version: '20'
           registry-url: 'https://registry.npmjs.org'
 
-      - run: npm ci
+      - run: npm install
 
-      - run: npm publish
+      - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
