@@ -1,17 +1,16 @@
 {
-  "name": "@taovuzu/jsstl",
+  "name": "js-stl-x",
   "version": "1.0.0",
   "description": "A Package to implement STL-like algorithms and data structures in JavaScript with ease.",
   "main": "index.js",
   "scripts": {
-    "test": "node test_stl.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/taovuzu/jsSTL"
   },
   "author": "Krishna Chahar",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "DSA",
     "STL",
